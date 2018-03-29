@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bash
 echo "          **************************"
 echo
-echo "          Plz subscribe my channel"
+echo "        Plz subscribe Itz_Hacker'z_Shed"
 echo
 echo "          **************************"
 echo
